@@ -1,0 +1,8 @@
+1° A configuração é simples: na pasta "configuracao" dentro dela tem o arquivo "url.php"
+edite ele colocando a URL do seu site.
+
+2° arquivo a ser edita é "conf.php" lá vc coloca o nome do seu site
+e o banner de 300x250. (Essa configuração é apenas para o player 2)
+
+3° opcional é o "popup.php" para colocar o anúncio de popup nos player
+colocando o popup vai ser habilitado apenas no (player 1, 3 e 4)
